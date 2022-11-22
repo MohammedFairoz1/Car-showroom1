@@ -1,0 +1,42 @@
+hr {
+    background-color: blue;
+    border-style:none;
+    border-top-style:dotted ;
+   border-width: 5px;
+   width: 5%;
+   
+}
+body{
+    background-color: #DDA0DD;
+}
+h1{
+    color: black;
+    font-family: 'Apple Chancery', cursive;
+}
+h4{
+    color: darkblue;
+}
+div {
+width: 100px;
+height: 100px;
+margin: 0px;
+padding: 0px;
+background-image: none;
+}
+.f{
+    background-color: white;  
+    width: 1367px;
+    height: 100px;
+    margin-left: -8px;
+    margin-top: -1%;
+}
+.a{
+    color: #dc3545;
+background-color: transparent;
+background-image: none;
+margin: 0%;
+text-align: center;
+}
+.logo{
+    margin: 2%;
+}
