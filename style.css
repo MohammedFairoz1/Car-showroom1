@@ -10903,16 +10903,16 @@ margin: 0px;
 padding: 0px;
 background-image: none;
 }
-.f{
-    background-color: white;  
+.navbar{
+    background-color: black;  
     width: 100%;
-    height: 50px;
+    height: 100%;
     /* margin-left: -8px;
     margin-top: -1%; */
 }
 .a{
     color: #dc3545;
-background-color: transparent;
+background-color: black;
 background-image: none;
 margin-left: 20px;
 text-align: center;
@@ -10936,4 +10936,7 @@ ul.nav > li:hover {
 ul.nav > li > a {
   color: white;
   text-decoration: none;
+}
+.intro{
+  color: #dc3545;
 }
